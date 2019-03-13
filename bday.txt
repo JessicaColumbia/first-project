@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Happy birthD
 <<<<<<< HEAD
+=======
+waaaaa:xHappy birthday
+>>>>>>> birthday
 
 
 =======
